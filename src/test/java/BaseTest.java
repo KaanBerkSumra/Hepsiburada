@@ -18,7 +18,7 @@ public class BaseTest {
         public static ChromeOptions chromeOptions() {
             chromeOptions = new ChromeOptions();
             chromeOptions.addArguments("--disable-notifications");
-            chromeOptions.addArguments("--start-fullscreen");
+            chromeOptions.addArguments("--start-maximized");
             chromeOptions.addArguments("--disable-blink-features");
             chromeOptions.addArguments("--disable-blink-features=AutomationControlled");
             chromeOptions.addArguments("--disable-extensions");

@@ -20,9 +20,11 @@ public class ProductPage extends BasePage{
         clickElement(By.cssSelector("button[class='button big with-icon']"));
         Thread.sleep(2000);
         getElementFromList(By.cssSelector("button[class='add-to-basket button small']"),0).click();
+        logger.info("Items were added.");
     }
     public void goToBasket() throws InterruptedException {
         clickElement(By.xpath("//*[contains(text(),'Sepetim')]"));
         Thread.sleep(2000);
+        logger.info("Basket page was opened.");
     }
 }

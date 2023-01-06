@@ -11,10 +11,12 @@ public class LoginPage extends BasePage{
         sendKeys(By.cssSelector("input[autocomplete='username']"), "kaan.berk23@gmail.com");
         clickElement(By.id("btnLogin"));
         Thread.sleep(2000);
+        logger.info("Email was written.");
     }
     public void typePassword(){
         sendKeys(By.cssSelector("input[autocomplete='current-password']"), "Test1234");
         clickElement(By.id("btnEmailSelect"));
+        logger.info("Password was written.");
     }
 
 }

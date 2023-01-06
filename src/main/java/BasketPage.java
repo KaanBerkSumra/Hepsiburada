@@ -14,5 +14,6 @@ public class BasketPage extends BasePage{
         String secondProduct = getElementFromList(By.cssSelector("div[class='product_name_3Lh3t']"),1).getText().substring(0,20);
         Assert.assertEquals("Products are different!",productPage.productName, firstProduct);
         Assert.assertEquals("Products are different!",productPage.productName, secondProduct);
+        logger.info("Product names were checked.");
     }
 }

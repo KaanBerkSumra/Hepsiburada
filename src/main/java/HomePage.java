@@ -13,16 +13,16 @@ public class HomePage extends BasePage{
 
     public void navigateToWebsite(){
         goToUrl("https://www.hepsiburada.com/");
-        logger.info("Navigated to Hepsiburada.");
+        logger.info("Hepsiburada was navigated.");
     }
     public void acceptCookies(){
         clickElement(By.id("onetrust-accept-btn-handler"));
-        logger.info("Cookies accepted.");
+        logger.info("Cookies were accepted.");
     }
     public void navigateToLoginPage(){
         hoverElement(By.id("myAccount"));
         clickElement(By.id("login"));
-        logger.info("Navigated to Login Page.");
+        logger.info("Login Page was navigated.");
     }
     public void verifyLogin(){
         String userName = "Kaan Test";
@@ -31,6 +31,7 @@ public class HomePage extends BasePage{
     }
     public void searchBox(){
         sendKeys(By.cssSelector("input[class='desktopOldAutosuggestTheme-UyU36RyhCTcuRs_sXL9b']"), "iphone 14" + Keys.ENTER);
+        logger.info("Items were searched.");
     }
 }
 

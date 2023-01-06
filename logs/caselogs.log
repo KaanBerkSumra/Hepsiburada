@@ -15,3 +15,113 @@
 2022-11-04 19:43:40 INFO  TestCases:30 - Login verified.
 2022-11-04 19:44:06 INFO  TestCases:16 - Navigated to Hepsiburada.
 2022-11-04 19:44:06 INFO  TestCases:20 - Cookies accepted.
+2022-11-06 16:49:39 INFO  TestCases:16 - Navigated to Hepsiburada.
+2022-11-06 16:49:39 INFO  TestCases:20 - Cookies accepted.
+2022-11-06 16:49:40 INFO  TestCases:25 - Navigated to Login Page.
+2022-11-06 16:50:33 INFO  TestCases:16 - Navigated to Hepsiburada.
+2022-11-06 16:50:34 INFO  TestCases:20 - Cookies accepted.
+2022-11-06 16:50:35 INFO  TestCases:25 - Navigated to Login Page.
+2022-11-06 16:50:45 INFO  TestCases:30 - Login verified.
+2022-11-06 16:51:41 INFO  TestCases:16 - Navigated to Hepsiburada.
+2022-11-06 16:51:41 INFO  TestCases:20 - Cookies accepted.
+2022-11-06 16:51:42 INFO  TestCases:25 - Navigated to Login Page.
+2022-11-06 16:51:54 INFO  TestCases:30 - Login verified.
+2022-11-06 16:52:21 INFO  TestCases:16 - Navigated to Hepsiburada.
+2022-11-06 16:52:21 INFO  TestCases:20 - Cookies accepted.
+2022-11-06 17:01:40 INFO  TestCases:16 - Navigated to Hepsiburada.
+2022-11-06 17:01:40 INFO  TestCases:20 - Cookies accepted.
+2022-11-06 17:02:04 INFO  TestCases:16 - Navigated to Hepsiburada.
+2022-11-06 17:02:04 INFO  TestCases:20 - Cookies accepted.
+2022-11-06 17:02:05 INFO  TestCases:25 - Navigated to Login Page.
+2022-11-06 17:02:16 INFO  TestCases:30 - Login verified.
+2022-11-06 17:24:58 INFO  TestCases:16 - Hepsiburada was navigated.
+2022-11-06 17:24:58 INFO  TestCases:20 - Cookies accepted.
+2022-11-06 17:24:59 INFO  TestCases:25 - Login Page was navigated.
+2022-11-06 17:25:04 INFO  TestCases:14 - Email was written.
+2022-11-06 17:25:04 INFO  TestCases:19 - Password was written.
+2022-11-06 17:25:10 INFO  TestCases:30 - Login verified.
+2022-11-06 17:25:10 INFO  TestCases:34 - Items were searched.
+2022-11-06 17:25:17 INFO  TestCases:23 - Items were added.
+2022-11-06 17:25:26 INFO  TestCases:28 - Basket page was opened.
+2022-11-06 17:25:26 INFO  TestCases:17 - Product names were checked.
+2022-11-06 18:08:26 INFO  TestCases:16 - Hepsiburada was navigated.
+2022-11-06 18:08:27 INFO  TestCases:20 - Cookies were accepted.
+2022-11-06 18:08:28 INFO  TestCases:25 - Login Page was navigated.
+2022-11-06 18:08:32 INFO  TestCases:14 - Email was written.
+2022-11-06 18:08:32 INFO  TestCases:19 - Password was written.
+2022-11-06 18:08:37 INFO  TestCases:30 - Login verified.
+2022-11-06 18:08:38 INFO  TestCases:34 - Items were searched.
+2022-11-06 18:08:46 INFO  TestCases:23 - Items were added.
+2022-11-06 18:08:50 INFO  TestCases:28 - Basket page was opened.
+2022-11-06 18:08:50 INFO  TestCases:17 - Product names were checked.
+2022-11-06 18:09:05 INFO  TestCases:16 - Hepsiburada was navigated.
+2022-11-06 18:09:05 INFO  TestCases:20 - Cookies were accepted.
+2022-11-06 18:09:05 INFO  TestCases:34 - Items were searched.
+2022-11-06 18:09:14 INFO  TestCases:23 - Items were added.
+2022-11-06 18:09:17 INFO  TestCases:28 - Basket page was opened.
+2022-11-06 18:09:17 INFO  TestCases:17 - Product names were checked.
+2022-11-06 19:55:02 INFO  TestCases:16 - Hepsiburada was navigated.
+2022-11-06 19:55:02 INFO  TestCases:20 - Cookies were accepted.
+2022-11-06 19:55:03 INFO  TestCases:25 - Login Page was navigated.
+2022-11-06 19:55:07 INFO  TestCases:14 - Email was written.
+2022-11-06 19:55:08 INFO  TestCases:19 - Password was written.
+2022-11-06 19:55:13 INFO  TestCases:30 - Login verified.
+2022-11-06 19:55:13 INFO  TestCases:34 - Items were searched.
+2022-11-06 19:55:24 INFO  TestCases:23 - Items were added.
+2022-11-06 19:55:31 INFO  TestCases:28 - Basket page was opened.
+2022-11-06 19:55:31 INFO  TestCases:17 - Product names were checked.
+2022-11-06 19:55:52 INFO  TestCases:16 - Hepsiburada was navigated.
+2022-11-06 19:55:53 INFO  TestCases:20 - Cookies were accepted.
+2022-11-06 19:55:53 INFO  TestCases:34 - Items were searched.
+2022-11-06 19:56:01 INFO  TestCases:23 - Items were added.
+2022-11-06 19:56:04 INFO  TestCases:28 - Basket page was opened.
+2022-11-06 19:56:04 INFO  TestCases:17 - Product names were checked.
+2022-11-06 20:12:15 INFO  TestCases:16 - Hepsiburada was navigated.
+2022-11-06 20:12:15 INFO  TestCases:20 - Cookies were accepted.
+2022-11-06 20:12:16 INFO  TestCases:25 - Login Page was navigated.
+2022-11-06 20:12:20 INFO  TestCases:14 - Email was written.
+2022-11-06 20:12:20 INFO  TestCases:19 - Password was written.
+2022-11-06 20:12:26 INFO  TestCases:30 - Login verified.
+2022-11-06 20:12:26 INFO  TestCases:34 - Items were searched.
+2022-11-06 20:12:35 INFO  TestCases:23 - Items were added.
+2022-11-06 20:18:06 INFO  TestCases:16 - Hepsiburada was navigated.
+2022-11-06 20:18:06 INFO  TestCases:20 - Cookies were accepted.
+2022-11-06 20:18:07 INFO  TestCases:25 - Login Page was navigated.
+2022-11-06 20:18:12 INFO  TestCases:14 - Email was written.
+2022-11-06 20:18:12 INFO  TestCases:19 - Password was written.
+2022-11-06 20:18:17 INFO  TestCases:30 - Login verified.
+2022-11-06 20:18:18 INFO  TestCases:34 - Items were searched.
+2022-11-06 20:18:27 INFO  TestCases:23 - Items were added.
+2022-11-06 20:18:34 INFO  TestCases:28 - Basket page was opened.
+2022-11-06 20:18:34 INFO  TestCases:17 - Product names were checked.
+2022-11-06 20:18:50 INFO  TestCases:16 - Hepsiburada was navigated.
+2022-11-06 20:18:50 INFO  TestCases:20 - Cookies were accepted.
+2022-11-06 20:18:51 INFO  TestCases:34 - Items were searched.
+2022-11-06 20:18:58 INFO  TestCases:23 - Items were added.
+2022-11-06 20:19:01 INFO  TestCases:28 - Basket page was opened.
+2022-11-06 20:19:01 INFO  TestCases:17 - Product names were checked.
+2022-11-06 20:25:36 INFO  TestCases:16 - Hepsiburada was navigated.
+2022-11-06 20:25:36 INFO  TestCases:20 - Cookies were accepted.
+2022-11-06 20:25:36 INFO  TestCases:34 - Items were searched.
+2022-11-06 20:27:54 INFO  TestCases:16 - Hepsiburada was navigated.
+2022-11-06 20:27:54 INFO  TestCases:20 - Cookies were accepted.
+2022-11-06 20:27:55 INFO  TestCases:34 - Items were searched.
+2022-11-06 20:28:03 INFO  TestCases:23 - Items were added.
+2022-11-06 20:28:06 INFO  TestCases:28 - Basket page was opened.
+2022-11-06 20:28:06 INFO  TestCases:17 - Product names were checked.
+2022-11-06 21:02:47 INFO  TestCases:16 - Hepsiburada was navigated.
+2022-11-06 21:02:47 INFO  TestCases:20 - Cookies were accepted.
+2022-11-06 21:02:49 INFO  TestCases:25 - Login Page was navigated.
+2022-11-06 21:02:53 INFO  TestCases:14 - Email was written.
+2022-11-06 21:02:53 INFO  TestCases:19 - Password was written.
+2022-11-06 21:02:58 INFO  TestCases:30 - Login verified.
+2022-11-06 21:02:59 INFO  TestCases:34 - Items were searched.
+2022-11-06 21:03:06 INFO  TestCases:23 - Items were added.
+2022-11-06 21:03:14 INFO  TestCases:28 - Basket page was opened.
+2022-11-06 21:03:14 INFO  TestCases:17 - Product names were checked.
+2022-11-06 21:03:28 INFO  TestCases:16 - Hepsiburada was navigated.
+2022-11-06 21:03:28 INFO  TestCases:20 - Cookies were accepted.
+2022-11-06 21:03:28 INFO  TestCases:34 - Items were searched.
+2022-11-06 21:03:36 INFO  TestCases:23 - Items were added.
+2022-11-06 21:03:39 INFO  TestCases:28 - Basket page was opened.
+2022-11-06 21:03:39 INFO  TestCases:17 - Product names were checked.
